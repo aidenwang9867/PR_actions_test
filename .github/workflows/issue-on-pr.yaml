@@ -1,4 +1,4 @@
-on: [pull-requests]
+on: [pull_request]
 name: Create an issue on a pull requests
 permissions:
   contents: read
