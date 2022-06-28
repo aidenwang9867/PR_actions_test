@@ -1,6 +1,6 @@
 ---
 title: Someone just pushed a pull request
-assignees: JasonEtco, matchai
+assignees: AidenWang, aidenwang9867
 labels: bug, enhancement
 ---
-Someone just pushed, oh no! Here's who did it: {{ payload.sender.login }}.
+Someone just pushed, here's who did it: {{ payload.sender.login }}.
